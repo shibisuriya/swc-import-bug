@@ -1,5 +1,5 @@
 import React from "react";
-import Chart from '../../common/chart'
+import Chart from './common/chart'
 
 function App() {
   return (
